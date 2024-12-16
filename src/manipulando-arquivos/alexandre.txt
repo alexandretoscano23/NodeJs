@@ -1,0 +1,2 @@
+fui criado com o node
+Fui criado a partir do node!
