@@ -1,3 +1,5 @@
-const SayHello = require('./moduloA');
+const Promotion = require("./moduloA");
 
-new SayHello(2, 4, 7, 9);
+new Promotion("Camiseta", 50, 10);
+new Promotion("Tênis", 150, 5);
+new Promotion("Headset", 190, 15);
