@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:hsl(182, 82%, 93%);
+}
+
+.tasks{
+    margin: 0 auto;
+    margin-top: 10%;
+    max-width: 700px;
+    width: 50%;
+    background: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
